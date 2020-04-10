@@ -6,6 +6,7 @@ You can all the information regarding our team in this place
 Isildur86, HGcheck94, DavOz, zorch81, narambo1, SKhedira28, NM Rellikrahs19, Stifmeister
 
 ### Next League
+https://lichess.org/team/fc-torino
 5+0 • Blitz • 2h
 Rated • Arena
 
