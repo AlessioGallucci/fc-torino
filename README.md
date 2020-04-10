@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+## Welcome to FC Torino (Capitale)
 
-You can use the [editor on GitHub](https://github.com/AlessioGallucci/fc-torino/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You can all the information regarding our team in this place
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### The team
+Isildur86, HGcheck94, DavOz, zorch81, narambo1, SKhedira28, NM Rellikrahs19, Stifmeister
 
-### Markdown
+### Next League
+5+0 • Blitz • 2h
+Rated • Arena
+
+Battle of 10 teams and 5 leaders
+Nächste Q.-Team Battles: 16.04., 20-22h, 3+0 - Teams 1-3 => Liga 5B; Teams 4-7 = Liga 6B; Teams 8-10 => Liga 7B
+
+### News
+We received our first promotion https://lichess.org/tournament/YHzvdajs.
+Melo was never that aggressive in his career and saw blood everywhere.
+Zorch was multitabling like a professional poker player. The promotion was clear from the beginning.
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
+### Announcements
+We need to find new members.
+Joshua is our new diplomatic.
 
 [Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AlessioGallucci/fc-torino/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Contanct for next time
+For valueble donation please do not hesitate on paypal: alessio.gallucci@gmail.com
