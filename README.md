@@ -18,6 +18,3 @@ HGcheck94 was never that aggressive in his career and spill blood everywhere.
 ### Announcements
 We need to find new members.
 Joshua is our new diplomatic.
-
-### Support or Contact
-For valueble donation please do not hesitate on paypal: alessio.gallucci@gmail.com
