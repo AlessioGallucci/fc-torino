@@ -3,8 +3,8 @@
 You can all the information regarding our team in this place
 
 ### The team
-[https://lichess.org/team/fc-torino](https://lichess.org/team/fc-torino)
-<a href="slideshow.html">some pictures of the team</a>
+[https://lichess.org/team/fc-torino](https://lichess.org/team/fc-torino) <br/>
+<a href="slideshow.html">teams picture</a> <br/>
 Isildur86, HGcheck94, DavOz, zorch81, narambo1, SKhedira28, NM Rellikrahs19, Stifmeister
 
 ### Next Tournament
