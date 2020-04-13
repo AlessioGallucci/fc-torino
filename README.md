@@ -11,6 +11,7 @@ Isildur86, HGcheck94, DavOz, zorch81, narambo1, SKhedira28, NM Rellikrahs19, Sti
 https://lichess.org/tournament/mwdzcQd5
 
 ### Recent News
+[03-13-2020] The second promotion and solid new team members to consolidate the team.
 We received our first promotion https://lichess.org/tournament/YHzvdajs.
 HGcheck94 was never that aggressive in his career and spill blood everywhere.
 
